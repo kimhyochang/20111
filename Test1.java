@@ -9,6 +9,6 @@ public class Test1{
 		System.out.println("Semyeong");
 		System.out.println("20111");
 
-
+//작성자 : 김효창
 	}
 }
