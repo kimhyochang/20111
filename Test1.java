@@ -1,4 +1,4 @@
-public class Test1{
+ï»¿public class Test1{
 
 	public static void main(String args[]){
 
@@ -8,7 +8,7 @@ public class Test1{
 		System.out.println("Programming");
 		System.out.println("Semyeong");
 		System.out.println("20111");
-//ÀÛ¼ºÀÚ : ±èÈ¿Ã¢
+//ì‘ì„±ì : ê¹€íš¨ì°½
 
 
 	}
